@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "Roboto";
+    src: local("Roboto"), url("../../public/fonts/Roboto-Medium.ttf") format("truetype");
+    font-weight: normal;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: "Roboto", sans-serif;
+}
+
+.calculatorWrapper {
+    /* border-radius: 8px; */
+    /* overflow: hidden; */
+    background-color: #191B1D;
+}

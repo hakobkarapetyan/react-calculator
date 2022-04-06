@@ -1,0 +1,37 @@
+.keyboard {
+    background-color: #191B1D;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.keyboard .btn-row {
+    display: flex;
+    gap: 5px;
+}
+
+.btn {
+    width: 100px;
+    height: 80px;
+    border: none;
+    outline: none;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: #1E2022;
+    color: #fff;
+    transition: 250ms ease;
+}
+
+.btn.equal {
+    flex-grow: 1;
+    background-color: #ff0066;
+    font-size: 25px;
+}
+
+.btn.equal:hover {
+    background-color: #D90057;
+}
+
+.btn:hover {
+    background-color: #232527;
+}
