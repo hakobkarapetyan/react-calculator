@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-calculator/static/css/main.f8667c15.css",
+    "main.js": "/react-calculator/static/js/main.f90cd423.js",
+    "static/media/Roboto-Medium.ttf": "/react-calculator/static/media/Roboto-Medium.7429a63c09f79a1760b0.ttf",
+    "index.html": "/react-calculator/index.html",
+    "main.f8667c15.css.map": "/react-calculator/static/css/main.f8667c15.css.map",
+    "main.f90cd423.js.map": "/react-calculator/static/js/main.f90cd423.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8667c15.css",
+    "static/js/main.f90cd423.js"
+  ]
+}
