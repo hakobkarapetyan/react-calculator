@@ -1,4 +1,4 @@
-Check the hosted demo - https://hakobkarapetyan.github.io/react-calculator/ 
+**Check the hosted demo** - https://hakobkarapetyan.github.io/react-calculator/ 
 
 # Getting Started with Create React App
 
